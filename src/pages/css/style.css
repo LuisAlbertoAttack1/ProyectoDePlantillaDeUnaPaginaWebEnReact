@@ -1,0 +1,86 @@
+.TamañoDeImgCard{
+
+width: 100rem;
+
+}
+
+.imgCarrousel{
+    width: 100rem;
+    height: 30rem;
+}
+.TamañoDeIconos{
+    width: 3rem;
+    height: 3rem;
+}
+.imgColorBotonDentroCard{
+    width: 2rem;
+    height: 2rem;
+}
+.TamañoDeImgLarga{
+    width: 82rem;
+}
+.TamañoDePueblosMAgicos{
+    height: 5rem;
+    
+}
+.TamañoDeImgUltimos{
+    height: 5rem;
+    width: 8rem;
+}
+.ColorRosa{
+    height: 3rem;
+    background-color: #eb008b;
+}
+.cardColorvist{
+    height: 40rem;
+    background-color: antiquewhite !important;
+
+}
+.ColorDivAvisoDEPrivacidad{
+    background-color: #68003e !important;
+}
+.CardColorDentroDelDiv{
+    background-color: #4f000b !important;
+}
+.TamañoDeCardDEntro{
+    width: 30rem;
+}
+.TamañoDeCirculo{
+    height: 2rem;
+    width: 2rem;
+}
+
+.colorDeBotonRosa{
+    background-color: #ff4d6d !important;
+}
+.TamañoDeImgCelulares{
+    height: 10rem;
+    width: 10rem;
+}
+
+.TamañoDeLetrasInformacion{
+    height: 5rem;
+    width: 8rem;
+}
+.TamañoDeImgHidalgoEstadoEstados{
+   width: 92rem;
+}
+
+
+
+
+/* .TamañoDeLogoDeImg {
+    animation-duration: 3s;
+    animation-name: spin;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+} */
